@@ -1,4 +1,12 @@
-# @qftjs/monorepo1
+# @thenic/monorepo1
+
+## 1.0.4
+
+### Patch Changes
+
+- Updated dependencies [4470e09]
+- Updated dependencies [4470e09]
+  - @thenic/monorepo1@1.0.4
 
 ## 1.0.4-beta.0
 
@@ -6,7 +14,7 @@
 
 - test 444
 - Updated dependencies
-  - @qftjs/monorepo2@1.0.4-beta.0
+  - @thenic/monorepo2@1.0.4-beta.0
 
 ## 1.0.3
 
@@ -22,7 +30,7 @@
 - 测试发包
 - c790a59: test pkg1 beta2
 - Updated dependencies
-  - @qftjs/monorepo2@1.0.2
+  - @thenic/monorepo2@1.0.2
 
 ## 1.0.2-beta.1
 
@@ -42,4 +50,4 @@
 
 - init package
 - Updated dependencies
-  - @qftjs/monorepo2@1.0.1
+  - @thenic/monorepo2@1.0.1

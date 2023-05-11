@@ -1,6 +1,6 @@
 {
-  "name": "@qftjs/demo",
-  "version": "1.0.0",
+  "name": "@thenic/demo",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -17,6 +17,6 @@
   "author": "qi.futao",
   "license": "ISC",
   "dependencies": {
-    "@qftjs/monorepo1": "workspace:*"
+    "@thenic/monorepo1": "workspace:*"
   }
 }

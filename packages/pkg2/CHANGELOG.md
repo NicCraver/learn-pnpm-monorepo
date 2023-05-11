@@ -1,4 +1,10 @@
-# @qftjs/monorepo2
+# @thenic/monorepo2
+
+## 1.0.4
+
+### Patch Changes
+
+- 4470e09: test 444
 
 ## 1.0.4-beta.0
 
